@@ -8,6 +8,7 @@ Upload a csv to produce a chart. Accepts large files.
 <p>3) Enjoy!</p>
 
 <img src="images/Disk Utilization Graph.png">
+<figcaption>Instance names removed</figcaption>
 
 
 ### Future Work
