@@ -13,7 +13,7 @@ Upload a csv to produce a chart. Accepts large files.
 
 ### Future Work
 <p>
-Right now the chart works and is very accurate. It allows for drill down and image capture and has plenty of tools thanks to plotly. 
+Right now the chart works and is very accurate. It allows for drill down and image capture and has plenty of tools thanks to plotly. First things first is to wire the upload csv button. 
 <br>1)I want to add new callbacks to populate bootstrap cards for other systems information. 
 <br>2)I want to add the ability to add multiple files which will create multiple charts dynamically on the screen. 
 <br>3)Create a button that exports a report with all the graphs and information and a narrative explaining the information. 
